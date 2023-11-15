@@ -21,7 +21,7 @@ public class Main {
                 System.out.println("Please, stand by.");
                 break;
             case "green":
-                System.out.println("GO !!!\n");
+                System.out.println("GO !!!");
             default:
                 System.out.println("Traffic lights do not work...");
 
